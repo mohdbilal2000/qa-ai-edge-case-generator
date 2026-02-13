@@ -1,0 +1,5 @@
+{
+  "name": "QA Edge Case & Test Data Generator",
+  "description": "A powerful tool for QA Engineers to automate the generation of complex test scenarios focusing on security, boundary, and negative testing using Gemini 3 Pro.",
+  "requestFramePermissions": []
+}
